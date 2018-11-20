@@ -1,0 +1,2 @@
+# SSLogger
+Super simple logger
